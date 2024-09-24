@@ -1,4 +1,4 @@
-package org.example;
+package com.nullsmith.jsp.board;
 
 public class Main {
     public static void main(String[] args) {
