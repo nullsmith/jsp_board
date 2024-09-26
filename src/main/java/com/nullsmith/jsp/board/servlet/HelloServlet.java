@@ -20,5 +20,6 @@ public class HelloServlet extends HttpServlet {
         resp.setContentType("text/html; charset=UTF-8");
 
         resp.getWriter().append("Hello world! and 화영");
+        resp.getWriter().append("<br>너두 안녕.");
     }
 }
